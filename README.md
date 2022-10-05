@@ -2,7 +2,7 @@
 
 Meu nome é **Hugo Bouzada**, tenho 23 anos e sou do Rio de Janeiro.
 
-Acabei de concluir a faculdade de Administração na Universidade Estácio de sá e agora estou estudando para me tronar um **Desenvolvedor Front-end**.
+Acabei de concluir a faculdade de Administração na Universidade Estácio de sá e agora estou estudando para me tornar um **Desenvolvedor Front-end**.
 
 ## Estudos 🚀
 No momento estou realizando o curso da OneBitCode - Full Stack JavaScript e os Bootcamps da DIO.
